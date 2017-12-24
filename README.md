@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+<img align= 'left' src="images/IMG_1802.JPG" width="300"> 
 
-You can use the [editor on GitHub](https://github.com/isaacdu84/isaacdu84.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Hi there, I am Li!**<br />
+I am an environmental engineer by training with extensive research experience in handling and mining large datasets as well as statistical analysis and modeling of environmental data. Amazed by how much treasure there is in data, I am currently seeking to leverage my research skills to succeed as a data scientist.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am passionate about data mining, machine learning, and of course, coding, as well as any fields that data could make a big difference.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Skills
+- Python (pandas, numpy, matlibplot etc.) 
+- R
+- MySQL
+- Scientific and statistical modeling
+- Data visualization (ggplot, matlibplot, Tableau)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Connect with me
+This webpage is built by *Github Pages*, and is a portal to my personal projects. Any comments, suggestions and thoughts are welcomed.<br />
+<img src="images/location.png" width="20"> Washington, D.C. 
+<img src="images/email.png" width="20"> lidu@gwu.edu  
+<img src="images/linkedin.png" width="20"> linkedin.com/in/liduwashu/
+<img src="images/github.png" width="20"> github.com/isaacdu84
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/isaacdu84/isaacdu84.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
