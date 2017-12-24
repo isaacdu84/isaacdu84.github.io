@@ -3,7 +3,7 @@
 **Hi there, I am Li!**<br />
 I am an environmental engineer by training with extensive research experience in handling and mining large datasets as well as statistical analysis and modeling of environmental data. Amazed by how much treasure there is in data, I am currently seeking to leverage my research skills to succeed as a data scientist.
 
-I am passionate about data mining, machine learning, and of course, coding, as well as any fields that data could make a big difference.
+I am passionate about data mining, machine learning, and of course, coding, as well as any fields where data could make a big difference.
 
 
 ## Skills
