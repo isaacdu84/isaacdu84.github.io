@@ -13,6 +13,9 @@ I am passionate about data mining, machine learning, and of course, coding, as w
 - Scientific and statistical modeling
 - Data visualization (ggplot, matlibplot, Tableau)
 
+## More about me
+- CV
+- Portfolio
 
 ## Connect with me
 This webpage is built by *Github Pages*, and is a portal to my personal projects. Any comments, suggestions and thoughts are welcomed.<br />
