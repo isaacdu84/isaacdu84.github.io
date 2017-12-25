@@ -21,6 +21,6 @@ I am passionate about data mining, machine learning, and of course, coding, as w
 This webpage is built by *Github Pages*, and is a portal to my personal projects. Any comments, suggestions and thoughts are welcomed.<br />
 <img src="images/location.png" width="20"> Washington, D.C. 
 <img src="images/email.png" width="20"> lidu@gwu.edu  
-<img src="images/linkedin.png" width="20"> linkedin.com/in/liduwashu/
-<img src="images/github.png" width="20"> github.com/isaacdu84
+<img src="images/linkedin.png" width="20"> [linkedin.com/in/liduwashu/]linkedin.com/in/liduwashu/
+<img src="images/github.png" width="20"> [github.com/isaacdu84]github.com/isaacdu84
 
