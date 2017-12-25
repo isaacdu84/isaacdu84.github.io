@@ -15,7 +15,7 @@ I am passionate about data mining, machine learning, and of course, coding, as w
 
 ## More about me
 - [CV](https://isaacdu84.github.io/CV_LIDU/)
-- Portfolio
+- Portfolio (this is a dashboard where I post my projects, check it out!)
 
 ## Connect with me
 This webpage is built by *Github Pages*, and is a portal to my personal projects. Any comments, suggestions and thoughts are welcomed.<br />
