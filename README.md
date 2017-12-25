@@ -1,4 +1,4 @@
-<img align= 'left' src="images/IMG_1802.JPG" width="300"> 
+<img align="left" HSPACE="10" src="images/IMG_1802.JPG" width="300"> 
 
 **Hi there, I am Li!**<br />
 I am an environmental engineer by training with extensive research experience in handling and mining large datasets as well as statistical analysis and modeling of environmental data. Amazed by how much treasure there is in data, I am currently seeking to leverage my research skills to succeed as a data scientist.
